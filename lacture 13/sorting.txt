@@ -1,0 +1,4 @@
+Sorting
+1. Bubble Sorting.
+2. Selection Sorting.
+3. Insersion Sorting.
